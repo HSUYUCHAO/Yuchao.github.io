@@ -1,4 +1,4 @@
-I am now working on audio-driven video generation and text-to-speech research. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
+<!-- I am now working on audio-driven video generation and text-to-speech research. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely. 
 
@@ -6,4 +6,10 @@ I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
 
-To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
+To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee. -->
+
+I am a passionate enthusiast of quantum computing hailing from Taiwan. My journey in the field of quantum computing began in high school, and I have consistently dedicated myself to learning and growth ever since. I have also achieved IBM certification, earning the title of Qiskit Advocate.
+
+During my university years, I presented posters and research papers at both the Quantum Information Processing (QIP) and Quantum Computing Engineering (QCE) conferences. Over time, my passion for quantum computing has only grown stronger. I founded EntangleTech, a forward-looking quantum education platform, to share my knowledge and experiences.
+
+Continuously striving to improve myself, I actively participate in quantum computing competitions and hackathons, achieving numerous accolades along the way. Currently, I serve as a research intern in the quantum centers of two universities, focusing on advanced research in quantum machine learning, quantum random walks, QAOA, and other quantum algorithms.
