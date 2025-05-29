@@ -11,6 +11,10 @@ description              : "Focusing on video and speech large generation model.
 repository               : "hsuyuchao/Yuchao.github.io"
 google_scholar_stats_use_cdn : true
 
+# Theme Settings
+remote_theme            : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # google analytics
 google_analytics_id      : G-SWFCX99KQZ
 
