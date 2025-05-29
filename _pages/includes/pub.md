@@ -9,12 +9,8 @@
 [Quantum Kernel-Based Long Short-term Memory for Climate Time-Series Forecasting](https://ieeexplore.ieee.org/abstract/document/11000251) \\
 **YuChao,Hsu**,Nan-Yow Chen, Tai-Yu Li, Po-Heng Henry Lee,Kuan-Cheng Chen 
 
+- **Abstract**: We present the Quantum Kernel-Based Long Short-Term Memory (QK-LSTM) network, which integrates quantum kernel methods into classical LSTM architectures to enhance predictive accuracy and computational efficiency in climate time-series forecasting tasks, such as Air Quality Index (AQI) prediction. By embedding classical inputs into high-dimensional quantum feature spaces, QK-LSTM captures intricate nonlinear dependencies and temporal dynamics with fewer trainable parameters. Leveraging quantum kernel methods allows for efficient computation of inner products in quantum spaces, addressing the computational challenges faced by classical models and variational quantum circuit-based models. Designed for the Noisy Intermediate-Scale Quantum (NISQ) era, QK-LSTM supports scalable hybrid quantum-classical implementations. Experimental results demonstrate that QK-LSTM outperforms classical LSTM networks in AQI forecasting, showcasing its potential for environmental monitoring and resource-constrained scenarios, while highlighting the broader applicability of quantum-enhanced machine learning frameworks in tackling large-scale, high-dimensional climate datasets.
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div>
 
