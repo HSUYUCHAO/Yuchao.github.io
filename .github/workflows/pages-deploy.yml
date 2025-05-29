@@ -3,20 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # 或者 master，取決於您的默認分支名稱
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+      - main
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -27,27 +18,13 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
-      - name: Install Dependencies
+      - name: Build
         run: |
           bundle install
-          npm install
+          bundle exec jekyll build
 
-      - name: Build
-        run: bundle exec jekyll build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: ./_site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2 
+          folder: _site
+          branch: gh-pages 
