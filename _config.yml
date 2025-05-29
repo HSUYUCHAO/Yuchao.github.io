@@ -9,8 +9,8 @@
 title                    : "Yuchao"
 description              : "Focusing on video and speech large generation model."
 repository               : "hsuyuchao/Yuchao.github.io"
-baseurl                  : "/Yuchao.github.io"
-url                      : "https://hsuyuchao.github.io"
+# baseurl                  : "/Yuchao.github.io"
+# url                      : "https://hsuyuchao.github.io"
 google_scholar_stats_use_cdn : true
 
 # Theme Settings
